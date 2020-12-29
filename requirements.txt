@@ -1,0 +1,4 @@
+albumentations
+pytorch_ligthning
+efficientnet_pytorch
+wandb

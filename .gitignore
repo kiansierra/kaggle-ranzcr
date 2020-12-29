@@ -2,3 +2,5 @@
 wandb/*
 raznr/*
 .vscode/*
+*.csv
+*logs/*
