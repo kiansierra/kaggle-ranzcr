@@ -1,4 +1,5 @@
 albumentations
-pytorch_ligthning
-efficientnet_pytorch
+pytorch-lightning
+efficientnet-pytorch
+opencv-python
 wandb
