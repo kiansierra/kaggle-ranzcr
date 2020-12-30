@@ -1,5 +1,5 @@
-albumentations
-pytorch-lightning
+albumentations>=0.5
+pytorch-lightning>=1.0
 efficientnet-pytorch
 opencv-python
 wandb
